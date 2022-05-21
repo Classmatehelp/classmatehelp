@@ -1,0 +1,33 @@
+body{
+  background-color: #DBDFFD;
+  text-align: center;
+
+}
+p{
+  text-align: center;
+}
+h1{
+  color: #646FD4;
+
+}
+hr{
+  border-width:5px;
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+}
+
+.header{
+  padding: 20%;
+}
+.home{
+  padding: 20px;
+  padding-left: 700px;
+}
+.aboutme{
+  padding: 20px;
+}
+.contactus{
+  padding: 20px;
+}
